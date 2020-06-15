@@ -1,0 +1,16 @@
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Consola.exe
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\ClasesAbstractas.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\ClasesInstanciables.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\obj\Debug\Consola.exe
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\obj\Debug\Consola.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\Consola\bin\Debug\Archivos.pdb

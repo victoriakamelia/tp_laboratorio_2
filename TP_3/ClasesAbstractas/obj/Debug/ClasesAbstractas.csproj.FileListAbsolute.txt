@@ -1,0 +1,9 @@
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\vpereyra\Desktop\PEREYRA.VICTORIA.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
