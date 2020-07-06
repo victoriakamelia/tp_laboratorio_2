@@ -1,0 +1,12 @@
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\vpereyra\source\repos\BibliotecaDeClases\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\Jaime\Desktop\TP4\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
